@@ -1,5 +1,5 @@
 SELECT 
-    A.artista,
+    A.artista AS artista,
     AL.album AS album,
     COUNT(SA.pessoa_usuaria_id) AS pessoas_seguidoras
 FROM
