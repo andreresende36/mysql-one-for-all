@@ -9,7 +9,7 @@ Se houver qualquer outra dúvida ou problema, é só procurar a monitoria ou pos
 <details>
   <summary>‼️ Antes de começar a desenvolver</summary><br />
 
-1. Clone o r epositório
+1. Clone o repositório
 
    - Copie o endereço SSH do repositório e use-o para cloná-lo em sua máquina:
      - Por exemplo: `git clone git@github.com:tryber/sd-0x-project-x.git`.
